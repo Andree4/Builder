@@ -1,0 +1,5 @@
+C:\DiscoE\Prog Avanzada\factory\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+C:\DiscoE\Prog Avanzada\factory\TetrisUSFX01-master\Source\TetrisUSFX01\PiezaDirector.h
+C:\DiscoE\Prog Avanzada\factory\TetrisUSFX01-master\Source\TetrisUSFX01\PiezaBuilder.h
+C:\DiscoE\Prog Avanzada\factory\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\PiezaBuilder.generated.h
+C:\DiscoE\Prog Avanzada\factory\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\PiezaDirector.generated.h
